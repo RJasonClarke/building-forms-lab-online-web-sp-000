@@ -32,8 +32,8 @@ class BandInput extends Component {
         <input type="submit" />
       </form>
       </div>
-    )
+    );
   }
-}
+};
 
 export default BandInput;
